@@ -7,12 +7,6 @@ package demo;
  */
 public class HelloWorld {
 	public static void main(String[] args) {
-		char x = 'a'; 
-		char y = 97; 
-		int z = y + 1; 
-		System.out.println(x); 
-		System.out.println(y); 
-		System.out.println(z);
-
+		System.out.println("right");
 	}
 }
